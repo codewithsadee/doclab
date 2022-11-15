@@ -1,0 +1,221 @@
+Doclab - home
+
+This is a madical html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = Doclab home
+
+alt = Doclab home
+
+aria-label = clsoe menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Doctors
+Services
+Blog
+Contact
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline"></ion-icon>
+
+Make Appointment
+
+
+
+#---------- HERO ----------#
+
+Welcome To Doclab
+
+Find Nearest
+Doctor.
+
+Search doctors. clinics. hospitals. etc.
+
+Locations
+<ion-icon name="location"></ion-icon>
+
+<ion-icon name="search"></ion-icon>
+Find Now
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+alt = icon
+
+Psychiatry
+Lorem ipsum dolor sit amet, consectetur adipisicing
+
+aria-label = read more about psychiatry
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Gynecology
+
+Pulmonology
+
+Orthopedics
+
+
+
+
+#---------- ABOUT ----------#
+
+About Us
+
+Experienced Workers
+
+Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam
+
+Vision
+Mission
+Strategy
+
+Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
+
+<ion-icon name="checkmark-circle-outline"></ion-icon>
+Sonsectetur adipisicing elit
+
+Exercitation ullamco laboris
+
+Eiusmod tempor incididunt
+
+Aolore magna aliqua
+
+alt = about banner
+
+
+
+#---------- LISTING ----------#
+
+Doctors Listig
+Browse by specialist
+
+alt = icon
+
+Psychiatry
+Porta velit
+
+Gynecology
+Mattis augue
+
+Pulmonology
+Mauris laoreet
+
+Orthopedics
+Convallis vulputate
+
+Pediatrics
+Posuere maecenas
+
+Osteology
+Nisi nullam
+
+
+
+#---------- BLOG ----------#
+
+News & Article
+Latest Articles
+
+<ion-icon name="person-outline"></ion-icon>
+By Admin
+
+<ion-icon name="folder-outline"></ion-icon>
+Specialist
+
+Could intermittent fasting reduce breast cancer
+
+28 January, 2022
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+
+Read More
+
+
+Give children more autonomy during the pandemic
+
+How do binge eating and drinking impact the liver?
+
+
+
+#---------- FOOTER ----------#
+
+alt = Doclab home
+
+<ion-icon name="mail-open-outline"></ion-icon>
+Main Email :
+contact@website.com
+
+Inquiries :
+Info@mail.com
+
+<ion-icon name="call-outline"></ion-icon>
+
+Office Telephone :
+0029129102320
+
+Mobile :
+000 2324 39493
+
+About Us
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed
+
+<ion-icon name="map-outline"></ion-icon>
+
+2416 Mapleview Drive
+Tampa, FL 33634
+
+Services
+
+Conditions
+Listing
+How It Works
+What We Offer
+Latest News
+Contact Us
+
+Useful Links
+
+Conditions
+Terms of Use
+Our Services
+Join as a Doctor
+New Guests List
+The Team List
+
+Subscribe
+
+placeholder = Email
+
+Subscribe 
+
+Get the latest updates via email. Any time you may unsubscribe
+
+&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up"></ion-icon>
